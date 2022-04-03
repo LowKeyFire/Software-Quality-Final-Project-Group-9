@@ -6,10 +6,10 @@
 ##  Halim
 - 100700318
 
-##William Robinson
+## William Robinson
 - 100751756
 
-##Deepak Thangella
+## Deepak Thangella
 - 100695929
 
 
